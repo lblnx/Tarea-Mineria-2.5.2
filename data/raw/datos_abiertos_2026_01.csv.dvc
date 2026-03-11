@@ -1,0 +1,5 @@
+outs:
+- md5: 1ff0f2159cc5cfb96a25fa370880f87b
+  size: 30985189
+  hash: md5
+  path: datos_abiertos_2026_01.csv
